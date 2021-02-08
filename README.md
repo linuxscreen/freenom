@@ -137,7 +137,7 @@ Telegram bot 有两个配置项，一个是`chatID`（对应`.env`文件中的`T
 另一个是`token`（对应`.env`文件中的`TELEGRAM_BOT_TOKEN`），你的 Telegram bot 令牌，你会创建 Telegram bot 就知道怎么获取，
 不多赘述。如何创建一个 Telegram bot 请参考：[官方文档](https://core.telegram.org/bots#6-botfather)
 
-***
+***  
 
 *与通知相关的设置到此就完成了，下面可以愉快的配置本程序了* :)
 
